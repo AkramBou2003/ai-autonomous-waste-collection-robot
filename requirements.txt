@@ -1,0 +1,5 @@
+# Versions from the 2024 project period
+numpy==1.26.4
+opencv-python==4.9.0.80
+
+# RPi.GPIO is used on the Raspberry Pi only. Install it on the Pi if needed.
